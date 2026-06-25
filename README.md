@@ -1,5 +1,27 @@
 # Stock Market Analysis API
 
+# 📈 Stock Market Analysis API
+
+FastAPI-powered Stock Market Analysis API for NSE/BSE with real-time market data, technical indicators, and AI-powered stock insights.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://stock-market-frontend-nine.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/iamsaiteja/stock-market-api)
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)]()
+[![yfinance](https://img.shields.io/badge/yfinance-Market_Data-blue)]()
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple)]()
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue)]()
+[![REST API](https://img.shields.io/badge/REST-API-red)]()
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](stock.png)
+
 FastAPI + yfinance build **NSE/BSE Stock Analysis API**.
 
 ##  Features
